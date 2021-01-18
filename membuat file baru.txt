@@ -1,4 +1,0 @@
-project hari ini
--belajar git dari mr. Sandhika
--mengenal git & github
--belajar Branch
