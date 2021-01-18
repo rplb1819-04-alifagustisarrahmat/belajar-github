@@ -1,4 +1,8 @@
 selesaikan tugas buat Git & GitHub
 -menonton video pak Sandhika
+  * Apa itu Git & GitHub
+  * Bekerja Dengan GitHub
+  * Branch
+  * Fork
 -mengikuti Video sambil mencoba
 -membuat catatan pegetahuan GitHub
