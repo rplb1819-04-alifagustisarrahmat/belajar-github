@@ -6,6 +6,7 @@ selesaikan tugas buat Git & GitHub
   * Fork
 -mengikuti Video sambil mencoba
   * selesai hingga Bekerja dengan GitHub
-  * Branch Proses
--membuat catatan pegetahuan GitHub
+  * selesai Branch
+  * selesai Fork
+-membuat catatan pengetahuan GitHub
 -Kirim ke GC
