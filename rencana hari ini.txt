@@ -8,5 +8,4 @@ selesaikan tugas buat Git & GitHub
   * selesai hingga Bekerja dengan GitHub
   * Branch Proses
 -membuat catatan pegetahuan GitHub
--Revisi
 -Kirim ke GC
