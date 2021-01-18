@@ -1,3 +1,4 @@
 project hari ini
+-belajar git dari mr. Sandhika
 -mengenal git & github
--membuat file teks baru
+-belajar Branch
